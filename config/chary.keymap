@@ -150,18 +150,6 @@
             layers = <0 1>;
         };
 
-        back {
-            bindings = <&kp LA(LEFT)>;
-            key-positions = <13 14>;
-            layers = <0 1>;
-        };
-
-        forward {
-            bindings = <&kp LA(RIGHT)>;
-            key-positions = <21 22>;
-            layers = <0 1>;
-        };
-
         ime_off {
             bindings = <&kp LANGUAGE_2>;
             key-positions = <14 15>;
@@ -190,6 +178,18 @@
             bindings = <&kp LG(TAB)>;
             key-positions = <19 20>;
             layers = <4>;
+        };
+
+        home {
+            bindings = <&kp HOME>;
+            key-positions = <13 14>;
+            layers = <0 1>;
+        };
+
+        end {
+            bindings = <&kp END>;
+            key-positions = <21 22>;
+            layers = <0 1>;
         };
     };
 
