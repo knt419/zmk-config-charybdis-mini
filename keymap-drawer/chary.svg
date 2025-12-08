@@ -534,26 +534,26 @@ rect.held, rect.combo.held {
 <text x="672" y="98" class="combo hold">Alt+`</text>
 </g>
 <g class="combo combopos-6">
-<rect rx="6" ry="6" x="98" y="91" width="28" height="26" class="combo"/>
-<use href="#mdi:arrow-left-bold" xlink:href="#mdi:arrow-left-bold" x="103" y="95" height="18" width="18.0" class="combo tap glyph mdi:arrow-left-bold"/>
-</g>
-<g class="combo combopos-7">
-<rect rx="6" ry="6" x="714" y="91" width="28" height="26" class="combo"/>
-<use href="#mdi:arrow-right-bold" xlink:href="#mdi:arrow-right-bold" x="719" y="95" height="18" width="18.0" class="combo tap glyph mdi:arrow-right-bold"/>
-</g>
-<g class="combo combopos-8">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
 <text x="168" y="88" class="combo tap">
 <tspan x="168" dy="-0.6em" style="font-size: 75%">LANGUAGE</tspan><tspan x="168" dy="1.2em" style="font-size: 75%">2</tspan>
 </text>
 </g>
-<g class="combo combopos-9">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="154" y="130" width="28" height="26" class="combo"/>
 <use href="#mdi:undo" xlink:href="#mdi:undo" x="159" y="134" height="18" width="18.0" class="combo tap glyph mdi:undo"/>
 </g>
-<g class="combo combopos-10">
+<g class="combo combopos-8">
 <rect rx="6" ry="6" x="658" y="130" width="28" height="26" class="combo"/>
 <use href="#mdi:redo" xlink:href="#mdi:redo" x="663" y="134" height="18" width="18.0" class="combo tap glyph mdi:redo"/>
+</g>
+<g class="combo combopos-9">
+<rect rx="6" ry="6" x="98" y="91" width="28" height="26" class="combo"/>
+<text x="112" y="104" class="combo tap">HOME</text>
+</g>
+<g class="combo combopos-10">
+<rect rx="6" ry="6" x="714" y="91" width="28" height="26" class="combo"/>
+<text x="728" y="104" class="combo tap">END</text>
 </g>
 </g>
 </g>
@@ -759,26 +759,26 @@ rect.held, rect.combo.held {
 <text x="672" y="98" class="combo hold">Alt+`</text>
 </g>
 <g class="combo combopos-6">
-<rect rx="6" ry="6" x="98" y="91" width="28" height="26" class="combo"/>
-<use href="#mdi:arrow-left-bold" xlink:href="#mdi:arrow-left-bold" x="103" y="95" height="18" width="18.0" class="combo tap glyph mdi:arrow-left-bold"/>
-</g>
-<g class="combo combopos-7">
-<rect rx="6" ry="6" x="714" y="91" width="28" height="26" class="combo"/>
-<use href="#mdi:arrow-right-bold" xlink:href="#mdi:arrow-right-bold" x="719" y="95" height="18" width="18.0" class="combo tap glyph mdi:arrow-right-bold"/>
-</g>
-<g class="combo combopos-8">
 <rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
 <text x="168" y="88" class="combo tap">
 <tspan x="168" dy="-0.6em" style="font-size: 75%">LANGUAGE</tspan><tspan x="168" dy="1.2em" style="font-size: 75%">2</tspan>
 </text>
 </g>
-<g class="combo combopos-9">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="154" y="130" width="28" height="26" class="combo"/>
 <use href="#mdi:undo" xlink:href="#mdi:undo" x="159" y="134" height="18" width="18.0" class="combo tap glyph mdi:undo"/>
 </g>
-<g class="combo combopos-10">
+<g class="combo combopos-8">
 <rect rx="6" ry="6" x="658" y="130" width="28" height="26" class="combo"/>
 <use href="#mdi:redo" xlink:href="#mdi:redo" x="663" y="134" height="18" width="18.0" class="combo tap glyph mdi:redo"/>
+</g>
+<g class="combo combopos-9">
+<rect rx="6" ry="6" x="98" y="91" width="28" height="26" class="combo"/>
+<text x="112" y="104" class="combo tap">HOME</text>
+</g>
+<g class="combo combopos-10">
+<rect rx="6" ry="6" x="714" y="91" width="28" height="26" class="combo"/>
+<text x="728" y="104" class="combo tap">END</text>
 </g>
 </g>
 </g>

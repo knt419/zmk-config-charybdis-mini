@@ -321,12 +321,6 @@ combos:
 - p: [20, 21]
   k: {t: LANGUAGE 1, h: Alt+`}
   l: [DEFAULT, MOUSE]
-- p: [13, 14]
-  k: Alt+$$mdi:arrow-left-bold$$
-  l: [DEFAULT, MOUSE]
-- p: [21, 22]
-  k: Alt+$$mdi:arrow-right-bold$$
-  l: [DEFAULT, MOUSE]
 - p: [14, 15]
   k: LANGUAGE 2
   l: [DEFAULT, MOUSE]
@@ -343,3 +337,9 @@ combos:
 - p: [19, 20]
   k: $$mdi:view-dashboard-outline$$
   l: [NUMBER]
+- p: [13, 14]
+  k: HOME
+  l: [DEFAULT, MOUSE]
+- p: [21, 22]
+  k: END
+  l: [DEFAULT, MOUSE]
