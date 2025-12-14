@@ -191,6 +191,12 @@
             key-positions = <21 22>;
             layers = <0 1>;
         };
+
+        close {
+            bindings = <&holdtap LA(F4) LC(W)>;
+            key-positions = <33 34>;
+            layers = <0 1>;
+        };
     };
 
     macros {
